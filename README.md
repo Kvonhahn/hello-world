@@ -1,2 +1,3 @@
 # hello-world
-Illuminattion
+Illumination
+Fixing the spelling of illumination from my description
